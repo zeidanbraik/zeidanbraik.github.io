@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - zeidanbraik
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - zeidanbraik/On-Invariance-of-PSO-and-DE
+  - zeidanbraik/Electrical-Vehicles-Smart-Charging
+  - zeidanbraik/Benchmarking-CMA-ES-with-Rank-One-update-Algorithm
+  - zeidanbraik/Production-Planning-Operation-Research
+  - zeidanbraik/Classification-Model-for-ATLAS-Higgs-Boson-Machine-Learning-Challenge-2014
+  - zeidanbraik/Project3-Identify-customers-segments
+  - zeidanbraik/Project2-Create-your-ImageClassifier
+  - zeidanbraik/project1-Finding-Donors-for-CharityML
+  - zeidanbraik/Supermarket-Management
