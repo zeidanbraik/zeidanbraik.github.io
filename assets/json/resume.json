@@ -1,36 +1,36 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Zeidan Braik",
+    "label": "Master 2 Optimization Graduate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "zaidane.1999.1@gmail.com",
+    "phone": "(+970) 597090259",
+    "url": "https://https://zeidanbraik.github.io/",
+    "summary": "Mathematician with Bachelor's degree in Pure Mathematics from Palestine and M2 degree in Optimization from University Paris Saclay",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Nablus",
+      "countryCode": "Palestine",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "zeidanbraik",
+        "url": "https://www.linkedin.com/in/zeidanbraik/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "An-Najah National University",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2023-10-02",
+      "endDate": "2024-01-30",
+      "summary": "I taught 12 hrs/week Calculus I course for freshers ",
+      "highlights": [""]
     }
   ],
   "volunteer": [
